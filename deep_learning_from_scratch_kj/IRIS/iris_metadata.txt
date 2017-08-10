@@ -1,0 +1,7 @@
+#	encoding	cp932
+field_name	dtype
+Species	int
+Sepal_Length	float
+Sepal_Width	float
+Petal_Length	float
+Petal_Width	float
